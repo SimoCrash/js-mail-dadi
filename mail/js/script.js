@@ -23,8 +23,7 @@ for (let i = 0; i < listMail.length; i++) {
         else {
 
         console.log("devi registrarti per entrare nel sito");
-    }
-        
+    }  
     }
 }
     
